@@ -21,7 +21,7 @@ Es sollte [] passieren.
 **Screenshots**
 Wenn der Bug Meldung hilft, füge Screenshots hinzu.
 
-**Dein Gerät (please complete the following information):**
+**Dein Gerät (Bitte soweit wie möglich ausfüllen):**
  - OS: [Windows/Android/Ios/MacOs/Linux]
  - Browser [Chrome/Opera/Firefox/Safari]
  - Version [Browserversion]
