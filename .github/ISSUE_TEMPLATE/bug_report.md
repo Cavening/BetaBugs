@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Fehler melden.
 about: Melde einen Bug auf Cavening.
 title: FEHLER - [BUG]
 labels: ''
